@@ -1,5 +1,5 @@
 # 💫 About Me:
-  I like to explore new technologies and develop quick hacks.<br>🎓  I'm studying Artificial Intelligence And Machine Learning at KIT's College of Engineering.<br>🌱  I'm on track to learn more about Artificial Intelligence, DSA, UI-UX,<br>✍️  In my free time, I pursue design and editing as hobbies/side hustles.<br>✉️  You can shoot me an email at vedantpatil9977@gmail.com! I'll try to respond as soon as I can.<br>📄  Please look at my Résumé for more details about me. I'm open to feedback and suggestions!
+  I like to explore new technologies and develop quick hacks.<br>🎓  I'm studying `Artificial Intelligence And Machine Learning` at KIT's College of Engineering.<br>🌱  I'm on track to learn more about `Artificial Intelligence, DSA, UI-UX`<br>✍️  In my free time, I pursue `design and editing` as hobbies/side hustles.<br>✉️  You can shoot me an email at `vedantpatil9977@gmail.com`! I'll try to respond as soon as I can.<br>📄  Please look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
 
 ## 🌐 Socials:
