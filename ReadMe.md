@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
 
 # 💫 About Me:
-<img src="https://media1.tenor.com/m/gXjUtMzLPxoAAAAd/naruto-naruto-shippuden.gif" alt="naruto" align="right" height="200px"/>
+<img src="https://media1.tenor.com/m/gXjUtMzLPxoAAAAd/naruto-naruto-shippuden.gif" alt="naruto" align="right" height="210px"/>
 <p id="About" align="left">
   I like to explore new technologies and develop quick hacks.<br>🎓  I'm studying <code>Artificial Intelligence And Machine Learning</code> at KIT's College of Engineering.<br>🌱  I'm on track to learn more about <code>Artificial Intelligence, DSA, UI-UX</code><br>✍️  In my free time, I pursue <code>design and editing</code> as hobbies/side hustles.<br>✉️  You can shoot me an email at <a href="mailto: vedantpatil9977@gmail.com">vedantpatil9977@gmail.com,</a>! I'll try to respond as soon as I can.<br>📄  Please look at my [Résumé] for more details about me. I'm open to feedback and suggestions!
 </p>
