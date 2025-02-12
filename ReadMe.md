@@ -35,7 +35,6 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" /> &nbsp;
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub" /> &nbsp;
     <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" alt="GitHub Pages" /> &nbsp;
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira" /> &nbsp;
 </p>
 <br/> <br/>
 
