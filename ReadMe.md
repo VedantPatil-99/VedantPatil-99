@@ -68,8 +68,6 @@
 <p id="socialIcons" align="center">
     <a href="https://discord.gg/yh2Z4vSk" alt="Discord">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" /></a> &nbsp;&nbsp;
-    <a href="https://instagram.com/vedant_patil.09" alt="Instagram">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" /></a> &nbsp;&nbsp;
     <a href="https://linkedin.com/in/vedant-patil-s99" alt="LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;
     <a href="https://pinterest.com/AnAnimeClan" alt="Pinterest">
