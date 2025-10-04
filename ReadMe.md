@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+<kbd>![MasterHead](banner.png)</kbd>
 
 # 💫 About Me:
 <!-- <img src="https://media1.tenor.com/m/gXjUtMzLPxoAAAAd/naruto-naruto-shippuden.gif" alt="naruto" align="right" height="210px"/> -->
